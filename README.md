@@ -1,2 +1,2 @@
-# ultima-thule-slack-emoji
+# Ultima Thule Slack emoji
 Your personal Ultima Thule slack emoji
